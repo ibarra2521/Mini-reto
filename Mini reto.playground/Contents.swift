@@ -3,3 +3,4 @@
 import UIKit
 
 var str = "Hello, playground in GitHub"
+var string = "modificación"
